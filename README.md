@@ -7,4 +7,4 @@ Branch = ME b1
 Guru nanak dev engineering college 
 
 ## Excel certificate 
-
+![](IMG_20240730_172701.jpg)
